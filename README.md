@@ -1,7 +1,7 @@
 # Operating Systems Assignment: Parrot OS Setup & System Call Demo
 
 **Student:** Yohannes Damtie Aleka  
-**Hostname:** parrot-yohannes  
+**Hostname:** yohanis-damite  
 **OS:** Parrot OS 6.4 (Security Edition)
 
 ---
