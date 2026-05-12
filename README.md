@@ -131,8 +131,9 @@ Free swap     : 2048 MB
 Processes     : 312
 Load averages : 65536, 32768, 16384
 Load averages are scaled by 65536; divide by 65536.0 for actual values.
+```
 
-8. References
+## 8. References
 Oracle. What Is Virtualization? – Link
 
 NIST. Guide to Security for Full Virtualization Technologies – SP 800-125
